@@ -125,3 +125,25 @@ Here we are going to see the base of this project, we will be able to see what t
 ### Findings
 
  We can see by the sentiment analysis shown that nationalrailenq was the company with the most change in sentiment, although there where changes in sentiment, none of them quite came out one the positve side, this should be a key indicator for companies to focus on working on their customer support team.
+
+
+
+## Sources and references
+
+### Dataset
+
+The following link will take you to the download page for the Dataset used for this model https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter
+  -In order to download click on the botton "download" located on the top right corner, after the download is complete yopu must unzip the file and the dataset will be    ready to use.
+
+### Sources
+
+The following links are some references that helped create the model please visit in case of any doubt:
+
+ - https://stackoverflow.com/a/43023503/3971619
+ - https://www.kaggle.com/sudalairajkumar/getting-started-with-text-preprocessing
+ - https://github.com/NeelShah18/emot/blob/master/emot/emo_unicode.py
+ - https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
+ - https://stackoverflow.com/questions/46282473/error-while-identify-the-coherence-value-from-lda-model
+
+### Non techinal Presentation
+
