@@ -4,7 +4,7 @@
 
 The sentiment analysis model aims to solve the real-world problem of tracking and analyzing customer feedback for businesses. Customer complaints and negative sentiment can have a significant impact on a company's reputation and bottom line. By identifying the top 10 companies with the most complaints, stakeholders can proactively address the underlying issues that are leading to negative feedback and improve the overall customer experience.
 
-## What are we aming to solve?
+## What are we aiming to solve?
 
 We are looking to help businesses understand how their customers feel about their products, services, or brand in general. By analyzing the sentiment of customer tweets, businesses can gain insights into what customers like or dislike about their offerings.
 
@@ -16,7 +16,7 @@ Overall, a Twitter sentiment analysis for customers can help businesses make mor
 
 ## Overview 
 
-In this project we will be celaning, formating and processing data in order to meet our objectives and give valuable and meaningfull insights such as:
+In this project we will be cleaning, formatting and processing data in order to meet our objectives and give valuable and meaningful insights such as:
 
 - Top 5 companies with tweet complaints
 - Avg response time by company
@@ -24,20 +24,20 @@ In this project we will be celaning, formating and processing data in order to m
 
 ### Steps
 
-1-. Retreive data
+1-. Retrieve data
 
 2-. Analyze data
 
 3-. Download Pkgs 
 
-4-. Process Data (Format data as requiered)
+4-. Process Data (Format data as required)
 
 6-. Create Model 
 
 7-. Evaluate Model.
 
 ## Data set 
- We will work with the following data set wich contains more than 1 millon rows and the following featuers:
+ We will work with the following data set which contains more than 1 million rows and the following features:
 
     - tweet_id : A unique, anonymized ID for the Tweet. Referenced by response_tweet_id and in_response_to_tweet_id.
 
@@ -79,7 +79,7 @@ By performing these steps, the resulting data is cleaned and ready for further a
 
 ## Top 5 companies with tweet complaint
 
-For this first insight we were able to use our clean data to creat a value count for teh companys and were able to retreive tyhe top 5 companies wityh most complaints, these will also be the companies in wich our analysis will be based.
+For this first insight we were able to use our clean data to create a value count for the companies and were able to retrieve the top 5 companies with most complaints, these will also be the companies in which our analysis will be based.
 
 
 <div align="center">
@@ -88,7 +88,7 @@ For this first insight we were able to use our clean data to creat a value count
 
 ### Findings
 
-From the table above its safe to say that AmazonHelp is the company with most complaints.
+  From the table above its safe to say that AmazonHelp is the company with most complaints.
 
 ## What day of the week do more complaint come in?
 
@@ -100,7 +100,7 @@ In order to find this we will work with our created_at featuer and work with the
 
 ### Findings
 
-It's clear that fridays being the firt weekend day is the day with most complaints.
+  It's clear that Fridays being the first weekend day is the day with most complaints.
 
 ## Avg response time by company
 
@@ -116,8 +116,12 @@ In this model we will be working with a created dataframe in wich we have create
   
 ## Sentiment Analysis 
 
-Here we are going to see the base of this proyect, we will be able to se what the clients initial sentiment was and the change in sentiment after interacting with Customer Support, we will also se the sentiment in the companies tweets; this will help the companies know what type of sentiment the change in their clients and create strategies to have a more relevant change in said sentiment.
+Here we are going to see the base of this project, we will be able to see what the client's initial sentiment was and the change in sentiment after interacting with Customer Support, we will also see the sentiment in the companies tweets; this will help the companies know what type of sentiment the change in their clients and create strategies to have a more relevant change in said sentiment.
 
 <div align="center">
     <img src= "https://user-images.githubusercontent.com/115577909/230850250-83f0fc82-5fe5-4c73-8c00-d5840c92cd03.png">
 </div>
+
+### Findings
+
+ We can see by the sentiment analysis shown that nationalrailenq was the company with the most change in sentiment, although there where changes in sentiment, none of them quite came out one the positve side, this should be a key indicator for companies to focus on working on their customer support team.
