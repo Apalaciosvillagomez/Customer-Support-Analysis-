@@ -59,6 +59,7 @@ In this project we will be celaning, formating and processing data in order to m
 
 ## Cleaning Data
 ![image](https://user-images.githubusercontent.com/115577909/230843134-23aea61b-aedb-45c1-81cf-3231e9532ae4.png)
+
 This step is an essential step in preparing data for sentiment analysis of tweets. The following are some steps involved in the data cleaning process:
 
     - Removing irrelevant information such as URLs, mentions, hashtags, emojis, and special characters.
