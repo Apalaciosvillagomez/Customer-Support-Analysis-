@@ -151,3 +151,25 @@ A non-technical poresentation was created to better understand the buisiness sid
 
 https://github.com/Apalaciosvillagomez/Customer-Support-Analysis-/blob/9326cad73fb339eec68e13246e9df06a853e79af/Non-technical%20Presentation.pdf
 
+# Repository Exploration
+
+1-. Capstone Project Proposal.pdf [file]
+ In this pdf you can view the proposal for this project.
+ https://github.com/Apalaciosvillagomez/Customer-Support-Analysis-/blob/f1ecbc009d04d20affe2f133e2107a7091e92991/Capstone%20Project%20Proposal.pdf
+
+2-. Customer Support Notebook.ipynb [model/main notebook]
+ This is the notebook that contains the whole project, from data exploration
+ https://github.com/Apalaciosvillagomez/Customer-Support-Analysis-/blob/f1ecbc009d04d20affe2f133e2107a7091e92991/Customer%20Support%20Notebook.ipynb
+
+3-. Non-technical Presentation.pdf [file]
+ Here you can find the slide for the Non-technical presentation.
+ https://github.com/Apalaciosvillagomez/Customer-Support-Analysis-/blob/2df305cdad83a4006d2d519d4b181c932f96ebc3/Non-technical%20Presentation.pdf
+
+4-. README.md [file]
+ file you are currently reading 
+ 
+5-. Twitter Complaints Dataset
+ This is where you can find instructions to download the dataset used for this project.
+ https://github.com/Apalaciosvillagomez/Customer-Support-Analysis-/blob/2df305cdad83a4006d2d519d4b181c932f96ebc3/Twitter%20Complaints%20Dataset
+ 
+ 
