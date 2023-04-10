@@ -110,3 +110,14 @@ In this model we will be working with a created dataframe in wich we have create
     <img src= "https://user-images.githubusercontent.com/115577909/230848267-77ed7a5d-8aa3-46f6-a91f-cc37e5cddce8.png">
 </div>
 
+### Findings
+
+  Although between our Avg response times there isn't a great gap we can see that Verizon Supports team has the fastest response time being an Avg of 3.61 minutes
+  
+## Sentiment Analysis 
+
+Here we are going to see the base of this proyect, we will be able to se what the clients initial sentiment was and the change in sentiment after interacting with Customer Support, we will also se the sentiment in the companies tweets; this will help the companies know what type of sentiment the change in their clients and create strategies to have a more relevant change in said sentiment.
+
+<div align="center">
+    <img src= "https://user-images.githubusercontent.com/115577909/230850250-83f0fc82-5fe5-4c73-8c00-d5840c92cd03.png">
+</div>
