@@ -159,6 +159,7 @@ https://github.com/Apalaciosvillagomez/Customer-Support-Analysis-/blob/9326cad73
 
 2-. Customer Support Notebook.ipynb [model/main notebook]
  This is the notebook that contains the whole project, from data exploration
+ 
  https://github.com/Apalaciosvillagomez/Customer-Support-Analysis-/blob/f1ecbc009d04d20affe2f133e2107a7091e92991/Customer%20Support%20Notebook.ipynb
 
 3-. Non-technical Presentation.pdf [file]
