@@ -54,7 +54,10 @@ In this project we will be celaning, formating and processing data in order to m
     - in_response_to_tweet_id : ID of the tweet this tweet is in response to, if any.
 
 ### Initial Data View
-![initial data view](https://user-images.githubusercontent.com/115577909/230841679-6a03b445-e749-4163-ac53-4f61c221830f.PNG)
+
+<div align="center">
+    <img src= "https://user-images.githubusercontent.com/115577909/230841679-6a03b445-e749-4163-ac53-4f61c221830f.PNG">
+</div>
 
 
 ## Cleaning Data
@@ -77,7 +80,6 @@ By performing these steps, the resulting data is cleaned and ready for further a
 ## Top 5 companies with tweet complaint
 
 For this first insight we were able to use our clean data to creat a value count for teh companys and were able to retreive tyhe top 5 companies wityh most complaints, these will also be the companies in wich our analysis will be based.
-
 
 
 <div align="center">
