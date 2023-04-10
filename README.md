@@ -81,5 +81,5 @@ For this first insight we were able to use our clean data to creat a value count
 
 
 <div align="center">
-    <img src=(https://user-images.githubusercontent.com/115577909/230843753-d0719100-2eaa-48f5-b134-a77a9d39e1fb.png)>
+    <img src= "https://user-images.githubusercontent.com/115577909/230843753-d0719100-2eaa-48f5-b134-a77a9d39e1fb.png">
 </div>
