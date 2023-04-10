@@ -77,3 +77,5 @@ By performing these steps, the resulting data is cleaned and ready for further a
 ## Top 5 companies with tweet complaint
 
 For this first insight we were able to use our clean data to creat a value count for teh companys and were able to retreive tyhe top 5 companies wityh most complaints, these will also be the companies in wich our analysis will be based.
+
+![image](https://user-images.githubusercontent.com/115577909/230843753-d0719100-2eaa-48f5-b134-a77a9d39e1fb.png)
