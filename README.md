@@ -92,8 +92,21 @@ From the table above its safe to say that AmazonHelp is the company with most co
 
 ## What day of the week do more complaint come in?
 
-In order to find this we will work with our created_at column and work with the pkg "Seaborn"
+In order to find this we will work with our created_at featuer and work with the pkg "Seaborn", this model will be of help for companies to know what day of the week more resources are going to be needed.
 
 <div align="center">
     <img src= "https://user-images.githubusercontent.com/115577909/230845703-16966c1e-e50e-4477-b31b-95d72ddc8c13.png">
 </div>
+
+### Findings
+
+It's clear that fridays being the firt weekend day is the day with most complaints.
+
+## Avg response time by company
+
+In this model we will be working with a created dataframe in wich we have created a new Column called "response_time" this will help us average all the tweets the companys have answered.
+
+<div align="center">
+    <img src= "https://user-images.githubusercontent.com/115577909/230848267-77ed7a5d-8aa3-46f6-a91f-cc37e5cddce8.png">
+</div>
+
