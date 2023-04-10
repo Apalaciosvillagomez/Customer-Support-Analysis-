@@ -112,7 +112,7 @@ In this model we will be working with a created dataframe in wich we have create
 
 ### Findings
 
-  Although between our Avg response times there isn't a great gap we can see that Verizon Supports team has the fastest response time being an Avg of 3.61 minutes
+  Al though between our Avg response times there isn't a great gap we can see that Verizon Supports team has the fastest response time being an Avg of 3.61 minutes
   
 ## Sentiment Analysis 
 
