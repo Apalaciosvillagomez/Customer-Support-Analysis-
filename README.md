@@ -145,5 +145,9 @@ The following links are some references that helped create the model please visi
  - https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
  - https://stackoverflow.com/questions/46282473/error-while-identify-the-coherence-value-from-lda-model
 
-### Non techinal Presentation
+### Non-technical Presentation
+
+A non-technical poresentation was created to better understand the buisiness side of the present project, you can find the presentation on the following:
+
+https://github.com/Apalaciosvillagomez/Customer-Support-Analysis-/blob/9326cad73fb339eec68e13246e9df06a853e79af/Non-technical%20Presentation.pdf
 
