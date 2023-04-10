@@ -2,7 +2,7 @@
 
 # Customer Support Analysis
 
-The sentiment analysis model aims to solve the real-world problem of tracking and analyzing customer feedback for businesses. Customer complaints and negative sentiment can have a significant impact on a company's reputation and bottom line. By identifying the top 10 companies with the most complaints, stakeholders can proactively address the underlying issues that are leading to negative feedback and improve the overall customer experience.
+The sentiment analysis model aims to solve the real-world problem of tracking and analyzing customer feedback for businesses. Customer complaints and negative sentiment can have a significant impact on a company's reputation and bottom line. By identifying multiple factors in terms of complaints, stakeholders can proactively address the underlying issues that are leading to negative feedback and improve the overall customer experience.
 
 ## What are we aiming to solve?
 
