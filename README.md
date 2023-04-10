@@ -85,3 +85,15 @@ For this first insight we were able to use our clean data to creat a value count
 <div align="center">
     <img src= "https://user-images.githubusercontent.com/115577909/230843753-d0719100-2eaa-48f5-b134-a77a9d39e1fb.png">
 </div>
+
+### Findings
+
+From the table above its safe to say that AmazonHelp is the company with most complaints.
+
+## What day of the week do more complaint come in?
+
+In order to find this we will work with our created_at column and work with the pkg "Seaborn"
+
+<div align="center">
+    <img src= "https://user-images.githubusercontent.com/115577909/230845703-16966c1e-e50e-4477-b31b-95d72ddc8c13.png">
+</div>
